@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(160, 194, 224);
+}
+.country{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+#countryDataDisplay{
+    margin-left: 35%;
+    margin-top: 3%;   
+}
+.card-title{
+    color: rgb(227, 32, 32);
+}
